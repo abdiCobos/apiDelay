@@ -1,0 +1,10 @@
+.loader{
+    display: none;
+    margin: auto;
+}
+.avatar{
+    border-radius: 100%;
+}
+.ocultar{
+    display: none
+}
